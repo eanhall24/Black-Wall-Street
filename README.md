@@ -1,7 +1,8 @@
 # Black-Wall-Street
 ## Description
 
-## Articles
+## Sections
+### Resources
 
 ## To-Do
 
